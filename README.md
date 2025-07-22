@@ -1,2 +1,4 @@
 # calculator-app
-simple calculator
+A basic calculator built with HTML, CSS, and JAVASCRIPT.
+## Live demo
+
